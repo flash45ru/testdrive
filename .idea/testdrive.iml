@@ -36,6 +36,8 @@
       <excludeFolder url="file://$MODULE_DIR$/yii/vendor/phpunit/php-file-iterator" />
       <excludeFolder url="file://$MODULE_DIR$/yii/vendor/phing/phing" />
       <excludeFolder url="file://$MODULE_DIR$/yii/vendor/cweagans/composer-patches" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
